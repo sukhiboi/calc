@@ -1,0 +1,26 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukhiboi/calc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukhiboi/calc/issues"
+  },
+  "homepage": "https://github.com/sukhiboi/calc#readme",
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
